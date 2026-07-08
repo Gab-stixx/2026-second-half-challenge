@@ -17,9 +17,4 @@
 ## Key Insight
 Two pointers solve many problems elegantly. Works on arrays, strings, linked lists.
 
-## Note
-Did this without electricity. Commitment doesn't pause.
-
----
-
 **Streak: 4/184** 🔥
