@@ -28,11 +28,6 @@ Greedy approach: Plant whenever possible, left to right.
 Sum = 0 means all three are empty. Plant immediately.
 Adjacent plantings never block each other.
 
-### Performance
-- **Runtime:** 1 ms (beats 85.20%)
-- **Memory:** 57.69 MB (beats 70.70%)
-- **Test Cases:** 130/130 passed ✅
-
 ### Complexity
 - **Time:** O(n) - single pass through array
 - **Space:** O(1) - modify input in place
